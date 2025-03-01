@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Solo Traveler SL Mobile Application</string>
+    <string name="my_api_key">AIzaSyCF2adchkNPWKLW7OWRULJ6UC504vi_OzU</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nonconstantresourceid">NonConstantResourceId</string>
+</resources>
